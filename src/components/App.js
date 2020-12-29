@@ -1,8 +1,11 @@
 import React from 'react';
+import SearchBar from './SearchBar'
 
 const App = () =>{
     return(
-        <div>Hello</div>
+        <div className="ui container mt" style={{marginTop: '10px'}}>
+            <SearchBar />
+        </div>
     )
 }
 
