@@ -3,6 +3,8 @@ An image search application that makes use of the Unsplash API to learn about in
 
 This application was created as part of Stephen Grider's Modern React with Redux (2020) course: https://www.udemy.com/course/react-redux/
 
+Live application: https://aidan-image-search-app.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
