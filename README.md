@@ -1,3 +1,8 @@
+# About
+An image search application that makes use of the Unsplash API to learn about input handling and displaying data using React
+
+This application was created as part of Stephen Grider's Modern React with Redux (2020) course: https://www.udemy.com/course/react-redux/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
